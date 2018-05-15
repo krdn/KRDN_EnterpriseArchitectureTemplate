@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\KRDN.BLL\KRDN.BLL.csproj" />
-    <ProjectReference Include="..\KRDN.DAL\KRDN.DAL.csproj" />
+    <ProjectReference Include="..\KRDN.DAL\KRDN.MSSQL.DAL.csproj" />
     <ProjectReference Include="..\KRDN.IDAL\KRDN.IDAL.csproj" />
   </ItemGroup>
 

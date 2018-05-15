@@ -3,7 +3,7 @@ using KRDN.Model;
 using System;
 using System.Collections.Generic;
 
-namespace KRDN.DAL
+namespace KRDN.MSSQL.DAL
 {
 
     /// <summary>

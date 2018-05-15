@@ -1,4 +1,5 @@
-﻿using KRDN.IDAL;
+﻿
+using KRDN.IDAL;
 using KRDN.WebCoreMVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
